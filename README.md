@@ -1,4 +1,4 @@
-The TIM Timekeeping app for UNC doesn't work correctly on modern Chrome (57) or Firefox (52) on Linux, but it did work on Firefox 49.  Running Firefox 49 locally, Firefox keeps insisting on updating to the latest version (maybe whenenver you click About?).  A docker container locked at version 49 should have been easy to implement, but it's been tricky.
+The TIM Timekeeping app for UNC doesn't work correctly on modern Chrome (57) or Firefox (52) on Linux, but it did work on Firefox 49.  Running Firefox 49 locally, Firefox keeps insisting on updating to the latest version (maybe whenever you click About?).  A docker container locked at version 49 should have been easy to implement, but it's been tricky.
 
 1. Need flash-plugin
 1. Need to add Certificate Authorities
